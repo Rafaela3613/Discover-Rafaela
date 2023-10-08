@@ -13,6 +13,8 @@ Discover Rafaela
 
 Projeto desenvolvido na trilha discover da rocketseat a título de estudos de html, css, javascript, figma e git.
 
+Link page:
+
 ## 📝 Licença
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
